@@ -1,9 +1,12 @@
 ADM - HOMEWORK 4 
  GROUP 18 
  
+NihaL Yaman Yılmaz - nihalyaman20@gmail.com
+Riccardo Soleo - Soleo.1911063@studenti.uniroma1.it
 
 
 
+⚠️ **Attention:** Before running the code, make sure to place the **`minhash_utils1.py`** file in the `archive` folder. Otherwise, the code will not work properly. 
 
 
 
