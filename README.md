@@ -4,7 +4,7 @@ ADM - HOMEWORK 4
 NihaL Yaman Yılmaz - nihalyaman20@gmail.com  
 Riccardo Soleo - Soleo.1911063@studenti.uniroma1.it  
 Shekh Sadamhusen  - sadamhusen06120@gmail.com  
-Andrea Divincenzo - andrea.dv0012@gmail.com
+Andrea Di Vincenzo - divincenzo1887012@studenti.unitoma1.it
 
 
 ⚠️ **Attention:** Before running the code, make sure to place the **`minhash_utils1.py`** file in the `archive` folder. Otherwise, the code will not work properly. 
